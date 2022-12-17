@@ -1,0 +1,35 @@
+.form-label {
+    font-size: 13.5px;
+}
+.card-body {
+    position: relative;
+}
+.total_price {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.form-label {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+/* star */
+.fa-star {
+    font-size : 25px;
+    align-content: center;
+    text-shadow: -0px -0px 10px #555;
+}
+
+.btn-star {
+    border: unset;
+    background-color: unset;
+}
+
+.swal-modal .swal-text {
+    text-align: center;
+}
+
+  
